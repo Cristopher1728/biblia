@@ -11,7 +11,7 @@ Genealogía de Jesucristo
 
 (Lc. 3.23-38)
 
-MATEO 1
+LMATEO 1
 
 1 Libro de la genealogía de Jesucristo, hijo de David, hijo de Abraham.
 
@@ -1132,7 +1132,7 @@ Predicación de Juan el Bautista
 
 (Mt. 3.1-12; Lc. 3.1-9, 15-17; Jn. 1.19-28)
 
-MARCOS 1
+LMARCOS 1
 
 1 Principio del evangelio de Jesucristo, Hijo de Dios. 2 Como está escrito en Isaías el profeta: 
 
@@ -1770,7 +1770,7 @@ SAN LUCAS
 
 Dedicatoria a Teófilo
 
-LUCAS 1
+LLUCAS 1
 
 1 Puesto que ya muchos han tratado de poner en orden la historia de las cosas que entre nosotros han sido ciertísimas, 2 tal como nos lo enseñaron los que desde el principio lo vieron con sus ojos, y fueron ministros de la palabra, 3 me ha parecido también a mí, después de haber investigado con diligencia todas las cosas desde su origen, escribírtelas por orden, oh excelentísimo Teófilo, 4 para que conozcas bien la verdad de las cosas en las cuales has sido instruido. 
 
@@ -2413,7 +2413,7 @@ Parábola de la higuera estéril
 
 Jesús sana a una mujer en el día de reposo
 
-10 Enseñaba Jesús en una sinagoga en el día de reposo; 11 y había allí una mujer que desde hacía dieciocho años tenía espíritu de enfermedad, y andaba encorvada, y en ninguna manera se podía enderezar. 12 Cuando Jesús la vio, la llamó y le dijo: Mujer, eres libre de tu enfermedad. 13 Y puso las manos sobre ella; y ella se enderezó luego, y glorificaba a Dios. 14 Pero el principal de la sinagoga, enojado de que Jesús hubiese sanado en el día de reposo, dijo a la gente: Seis días hay en que se debe trabajar; en éstos, pues, venid y sed sanados, y no en día de reposo. 15 Entonces el Señor le respondió y dijo: Hipócrita, cada uno de vosotros ¿no desata en el día de reposo su buey o su asno del pesebre y lo lleva a beber? 16 Y a esta hija de Abraham, que Satanás había atado dieciocho años, ¿no se le debía desatar de esta ligadura en el día de reposo? 17 Al decir él estas cosas, se avergonzaban todos sus adversarios; pero todo el pueblo se regocijaba por todas las cosas gloriosas hechas por él. 
+10 Enseñaba Jesús en una sinagoga en el día de reposo; 11 y había allí una mujer que desde hacía dieciocho años tenía espíritu de enfermedad, y andaba encorvada, y en ninguna manera se podía enderezar. 12 Cuando Jesús la vio, la llamó y le dijo: Mujer, eres libre de tu enfermedad. 13 Y puso las manos sobre ella; y ella se enderezó luego, y glorificaba a Dios. 14 Pero el principal de la sinagoga, enojado de que Jesús hubiese sanado en el día de reposo, dijo a la gente: Seis días hay en que se debe trabajar; en éstos, pues, venid y sed sanados, y no en día de reposo. 15 Entonces el Señor le respondió y dijo: Hipócrita, cada uno de vosotros ¿no desata en el día de reposo su buey o su asno del pesebre y lo lleva a beber? 16 Y a esta hija de Abraham, que Satanás había atado dieciocho años, ¿no se le debía desatar de esta ligadura en el día de reposo? 17 Al decir él estas cosas, se avergonzaban todos sus adversarios; pero 0todo el pueblo se regocijaba por todas las cosas gloriosas hechas por él. 
 
 Parábola de la semilla de mostaza
 
@@ -2824,7 +2824,7 @@ SAN JUAN
 
 El Verbo hecho carne
 
-JUAN 1
+LJUAN 1
 
 1 En el principio era el Verbo, y el Verbo era con Dios, y el Verbo era Dios. 2 Este era en el principio con Dios. 3 Todas las cosas por él fueron hechas, y sin él nada de lo que ha sido hecho, fue hecho. 4 En él estaba la vida, y la vida era la luz de los hombres. 5 La luz en las tinieblas resplandece, y las tinieblas no prevalecieron contra ella. 
 
@@ -3335,7 +3335,7 @@ Jesús se aparece a los discípulos
 Incredulidad de Tomás
 
 24 Pero Tomás, uno de los doce, llamado Dídimo, no estaba con ellos cuando Jesús vino. 25 Le dijeron, pues, los otros discípulos: Al Señor hemos visto. El les dijo: Si no viere en sus manos la señal de los clavos, y metiere mi dedo en el lugar de los clavos, y metiere mi mano en su costado, no creeré. 
-
+09
 26 Ocho días después, estaban otra vez sus discípulos dentro, y con ellos Tomás. Llegó Jesús, estando las puertas cerradas, y se puso en medio y les dijo: Paz a vosotros. 27 Luego dijo a Tomás: Pon aquí tu dedo, y mira mis manos; y acerca tu mano, y métela en mi costado; y no seas incrédulo, sino creyente. 28 Entonces Tomás respondió y le dijo: ¡Señor mío, y Dios mío! 29 Jesús le dijo: Porque me has visto, Tomás, creíste; bienaventurados los que no vieron, y creyeron. 
 
 El propósito del libro
@@ -3372,7 +3372,7 @@ de los Apóstoles
 
 La promesa del Espíritu Santo
 
-HECHOS 1
+LHECHOS 1
 
 1 En el primer tratado, oh Teófilo, hablé acerca de todas las cosas que Jesús comenzó a hacer y a enseñar, 2 hasta el día en que fue recibido arriba, después de haber dado mandamientos por el Espíritu Santo a los apóstoles que había escogido; 3 a quienes también, después de haber padecido, se presentó vivo con muchas pruebas indubitables, apareciéndoseles durante cuarenta días y hablándoles acerca del reino de Dios. 4 Y estando juntos, les mandó que no se fueran de Jerusalén, sino que esperasen la promesa del Padre, la cual, les dijo, oísteis de mí. 5 Porque Juan ciertamente bautizó con agua, mas vosotros seréis bautizados con el Espíritu Santo dentro de no muchos días. 
 
@@ -3759,7 +3759,7 @@ Y todos los gentiles, sobre los cuales es invocado mi nombre,
 
 22 Entonces pareció bien a los apóstoles y a los ancianos, con toda la iglesia, elegir de entre ellos varones y enviarlos a Antioquía con Pablo y Bernabé: a Judas que tenía por sobrenombre Barsabás, y a Silas, varones principales entre los hermanos; 23 y escribir por conducto de ellos: Los apóstoles y los ancianos y los hermanos, a los hermanos de entre los gentiles que están en Antioquía, en Siria y en Cilicia, salud. 24 Por cuanto hemos oído que algunos que han salido de nosotros, a los cuales no dimos orden, os han inquietado con palabras, perturbando vuestras almas, mandando circuncidaros y guardar la ley, 25 nos ha parecido bien, habiendo llegado a un acuerdo, elegir varones y enviarlos a vosotros con nuestros amados Bernabé y Pablo, 26 hombres que han expuesto su vida por el nombre de nuestro Señor Jesucristo. 27 Así que enviamos a Judas y a Silas, los cuales también de palabra os harán saber lo mismo. 28 Porque ha parecido bien al Espíritu Santo, y a nosotros, no imponeros ninguna carga más que estas cosas necesarias: 29 que os abstengáis de lo sacrificado a ídolos, de sangre, de ahogado y de fornicación; de las cuales cosas si os guardareis, bien haréis. Pasadlo bien. 
 
-30 Así, pues, los que fueron enviados descendieron a Antioquía, y reuniendo a la congregación, entregaron la carta; 31 habiendo leído la cual, se regocijaron por la consolación. 32 Y Judas y Silas, como ellos también eran profetas, consolaron y confirmaron a los hermanos con abundancia de palabras. 33 Y pasando algún tiempo allí, fueron despedidos en paz por los hermanos, para volver a aquellos que los habían enviado. 34 Mas a Silas le pareció bien el quedarse allí. 35 Y Pablo y Bernabé continuaron en Antioquía, enseñando la palabra del Señor y anunciando el evangelio con otros muchos. 
+n30 Así, pues, los que fueron enviados descendieron a Antioquía, y reuniendo a la congregación, entregaron la carta; 31 habiendo leído la cual, se regocijaron por la consolación. 32 Y Judas y Silas, como ellos también eran profetas, consolaron y confirmaron a los hermanos con abundancia de palabras. 33 Y pasando algún tiempo allí, fueron despedidos en paz por los hermanos, para volver a aquellos que los habían enviado. 34 Mas a Silas le pareció bien el quedarse allí. 35 Y Pablo y Bernabé continuaron en Antioquía, enseñando la palabra del Señor y anunciando el evangelio con otros muchos. 
 
 Pablo se separa de Bernabé, y comienza su segundo viaje misionero
 
@@ -3905,8 +3905,7 @@ Pablo es enviado a los gentiles
 
 Pablo en manos del tribuno
 
-22 Y le oyeron hasta esta palabra; entonces alzaron la voz, diciendo: Quita de la tierra a tal hombre, porque no conviene que viva. 23 Y como ellos gritaban y arrojaban sus ropas y lanzaban polvo al aire, 24 mandó el tribuno que le metiesen en la fortaleza, y ordenó que fuese examinado con azotes, para saber por qué causa clamaban así contra él. 25 Pero cuando le ataron con correas, Pablo dijo al centurión que estaba presente: ¿Os es lícito azotar a un ciudadano romano sin haber sido condenado? 26 Cuando el centurión oyó esto, fue y dio aviso al tribuno, diciendo: ¿Qué vas a hacer? Porque este hombre es ciudadano romano. 27 Vino el tribuno y le dijo: Dime, ¿eres tú ciudadano romano? El dijo: Sí. 28 Respondió el tribuno: Yo con una gran suma adquirí esta ciudadanía. Entonces Pablo dijo: Pero yo lo soy de nacimiento. 29 Así que, luego se apartaron de él los que le iban a dar tormento; y aun el tribuno, al saber que era ciudadano romano, también tuvo temor por haberle atado. 
-
+22 Y le oyeron hasta esta palabra; entonces alzaron la voz, diciendo: Quita de la tierra a tal hombre, porque no conviene que viva. 23 Y como ellos gritaban y arrojaban sus ropas y lanzaban polvo al aire, 24 mandó el tribuno que le metiesen en la fortaleza, y ordenó que fuese examinado con azotes, para saber por qué causa clamaban así contra él. 25 Pero cuando le ataron con correas, Pablo dijo al centurión que estaba presente: ¿Os es lícito azotar a un ciudadano romano sin haber sido condenado? 26 Cuando el centurión oyó esto, fue y dio aviso al tribuno, diciendo: ¿Qué vas a hacer? Porque este hombre es ciudadano romano. 27 Vino el tribuno y le dijo: Dime, ¿eres tú ciudadano romano? El dijo: Sí. 28 Respondió el tribuno: Yo con una gran suma adquirí esta ciudadanía. Entonces Pablo dijo: Pero yo lo soy de nacimiento. 29 Así que, luego se apartaron de él los que le iban a dar tormento; y aun el tribuno, al saber qugÃ³hre era ciudadano romano, también tuvo temor por haberle atado. 
 Pablo ante el concilio
 
 30 Al día siguiente, queriendo saber de cierto la causa por la cual le acusaban los judíos, le soltó de las cadenas, y mandó venir a los principales sacerdotes y a todo el concilio, y sacando a Pablo, le presentó ante ellos. 
@@ -3942,7 +3941,7 @@ HECHOS 24
 9 Los judíos también confirmaban, diciendo ser así todo. 
 
 10 Habiéndole hecho señal el gobernador a Pablo para que hablase, éste respondió: Porque sé que desde hace muchos años eres juez de esta nación, con buen ánimo haré mi defensa. 11 Como tú puedes cerciorarte, no hace más de doce días que subí a adorar a Jerusalén; 12 y no me hallaron disputando con ninguno, ni amotinando a la multitud; ni en el templo, ni en las sinagogas ni en la ciudad; 13 ni te pueden probar las cosas de que ahora me acusan. 14 Pero esto te confieso, que según el Camino que ellos llaman herejía, así sirvo al Dios de mis padres, creyendo todas las cosas que en la ley y en los profetas están escritas; 15 teniendo esperanza en Dios, la cual ellos también abrigan, de que ha de haber resurrección de los muertos, así de justos como de injustos. 16 Y por esto procuro tener siempre una conciencia sin ofensa ante Dios y ante los hombres. 17 Pero pasados algunos años, vine a hacer limosnas a mi nación y presentar ofrendas. 18 Estaba en ello, cuando unos judíos de Asia me hallaron purificado en el templo, no con multitud ni con alboroto. 19 Ellos debieran comparecer ante ti y acusarme, si contra mí tienen algo. 20 O digan éstos mismos si hallaron en mí alguna cosa mal hecha, cuando comparecí ante el concilio, 21 a no ser que estando entre ellos prorrumpí en alta voz: Acerca de la resurrección de los muertos soy juzgado hoy por vosotros. 
-
+9
 22 Entonces Félix, oídas estas cosas, estando bien informado de este Camino, les aplazó, diciendo: Cuando descendiere el tribuno Lisias, acabaré de conocer de vuestro asunto. 23 Y mandó al centurión que se custodiase a Pablo, pero que se le concediese alguna libertad, y que no impidiese a ninguno de los suyos servirle o venir a él. 
 
 24 Algunos días después, viniendo Félix con Drusila su mujer, que era judía, llamó a Pablo, y le oyó acerca de la fe en Jesucristo. 25 Pero al disertar Pablo acerca de la justicia, del dominio propio y del juicio venidero, Félix se espantó, y dijo: Ahora vete; pero cuando tenga oportunidad te llamaré. 26 Esperaba también con esto, que Pablo le diera dinero para que le soltase; por lo cual muchas veces lo hacía venir y hablaba con él. 27 Pero al cabo de dos años recibió Félix por sucesor a Porcio Festo; y queriendo Félix congraciarse con los judíos, dejó preso a Pablo. 
@@ -3998,7 +3997,6 @@ Pablo es enviado a Roma
 HECHOS 27
 
 1 Cuando se decidió que habíamos de navegar para Italia, entregaron a Pablo y a algunos otros presos a un centurión llamado Julio, de la compañía Augusta. 2 Y embarcándonos en una nave adramitena que iba a tocar los puertos de Asia, zarpamos, estando con nosotros Aristarco, macedonio de Tesalónica. 3 Al otro día llegamos a Sidón; y Julio, tratando humanamente a Pablo, le permitió que fuese a los amigos, para ser atendido por ellos. 4 Y haciéndonos a la vela desde allí, navegamos a sotavento de Chipre, porque los vientos eran contrarios. 5 Habiendo atravesado el mar frente a Cilicia y Panfilia, arribamos a Mira, ciudad de Licia. 6 Y hallando allí el centurión una nave alejandrina que zarpaba para Italia, nos embarcó en ella. 7 Navegando muchos días despacio, y llegando a duras penas frente a Gnido, porque nos impedía el viento, navegamos a sotavento de Creta, frente a Salmón. 8 Y costeándola con dificultad, llegamos a un lugar que llaman Buenos Puertos, cerca del cual estaba la ciudad de Lasea. 
-
 9 Y habiendo pasado mucho tiempo, y siendo ya peligrosa la navegación, por haber pasado ya el ayuno, Pablo les amonestaba, 10 diciéndoles: Varones, veo que la navegación va a ser con perjuicio y mucha pérdida, no sólo del cargamento y de la nave, sino también de nuestras personas. 11 Pero el centurión daba más crédito al piloto y al patrón de la nave, que a lo que Pablo decía. 12 Y siendo incómodo el puerto para invernar, la mayoría acordó zarpar también de allí, por si pudiesen arribar a Fenice, puerto de Creta que mira al nordeste y sudeste, e invernar allí. 
 
 La tempestad en el mar
@@ -4009,7 +4007,7 @@ La tempestad en el mar
 
 27 Venida la decimacuarta noche, y siendo llevados a través del mar Adriático, a la medianoche los marineros sospecharon que estaban cerca de tierra; 28 y echando la sonda, hallaron veinte brazas; y pasando un poco más adelante, volviendo a echar la sonda, hallaron quince brazas. 29 Y temiendo dar en escollos, echaron cuatro anclas por la popa, y ansiaban que se hiciese de día. 30 Entonces los marineros procuraron huir de la nave, y echando el esquife al mar, aparentaban como que querían largar las anclas de proa. 31 Pero Pablo dijo al centurión y a los soldados: Si éstos no permanecen en la nave, vosotros no podéis salvaros. 32 Entonces los soldados cortaron las amarras del esquife y lo dejaron perderse. 
 
-33 Cuando comenzó a amanecer, Pablo exhortaba a todos que comiesen, diciendo: Este es el decimocuarto día que veláis y permanecéis en ayunas, sin comer nada. 34 Por tanto, os ruego que comáis por vuestra salud; pues ni aun un cabello de la cabeza de ninguno de vosotros perecerá. 35 Y habiendo dicho esto, tomó el pan y dio gracias a Dios en presencia de todos, y partiéndolo, comenzó a comer. 36 Entonces todos, teniendo ya mejor ánimo, comieron también. 37 Y éramos todas las personas en la nave doscientas setenta y seis. 38 Y ya satisfechos, aligeraron la nave, echando el trigo al mar. 
+33 Cuando comenzó a amanecer, Pablo exhortaba a todos que comiesen, diciendo: Este es el decimocuarto día que veláis y permanecéis en ayunas, sin comer nada. 34 Por tanto, os ruego que comáis por vuestra salud; pues ni aun un cabello de la cabeza de ninguno de vosotros 5 Y habiendo dicho esto, tomó el pan y dio gracias a Dios en presencia de todos, y partiéndolo, comenzó a comer. 36 Entonces todos, teniendo ya mejor ánimo, comieron también. 37 Y éramos todas las personas en la nave doscientas setenta y seis. 38 Y ya satisfechos, aligeraron la nave, echando el trigo al mar. 
 
 El naufragio
 
@@ -4043,10 +4041,10 @@ Y sus ojos han cerrado,
 Para que no vean con los ojos, 
 Y oigan con los oídos, 
 Y entiendan de corazón, 
-Y se conviertan, 
+Y se conviertan, 5
 Y yo los sane. 
 
-28 Sabed, pues, que a los gentiles es enviada esta salvación de Dios; y ellos oirán. 29 Y cuando hubo dicho esto, los judíos se fueron, teniendo gran discusión entre sí. 
+28 Sabed, pues, que a los gentiles es enviada esta salvación de Dios; y ellos oirán. 29 Y cuando hubo dicho esto, los judíos se fueron, teniendo gran discusión entre sí. 5
 
 30 Y Pablo permaneció dos años enteros en una casa alquilada, y recibía a todos los que a él venían, 31 predicando el reino de Dios y enseñando acerca del Señor Jesucristo, abiertamente y sin impedimento. 
 ------------------------------------------------------------------------
@@ -4054,11 +4052,11 @@ Y yo los sane.
 
 La Epístola del Apóstol San Pablo a los
 
-ROMANOS 
+LROMANOS 
 
 Salutación
 
-ROMANOS 1
+LROMANOS 1
 
 1 Pablo, siervo de Jesucristo, llamado a ser apóstol, apartado para el evangelio de Dios, 2 que él había prometido antes por sus profetas en las santas Escrituras, 3 acerca de su Hijo, nuestro Señor Jesucristo, que era del linaje de David según la carne, 4 que fue declarado Hijo de Dios con poder, según el Espíritu de santidad, por la resurrección de entre los muertos, 5 y por quien recibimos la gracia y el apostolado, para la obediencia a la fe en todas las naciones por amor de su nombre; 6 entre las cuales estáis también vosotros, llamados a ser de Jesucristo; 7 a todos los que estáis en Roma, amados de Dios, llamados a ser santos: Gracia y paz a vosotros, de Dios nuestro Padre y del Señor Jesucristo. 
 
@@ -4886,11 +4884,11 @@ Saludos y doxología final
 
 La Epístola del Apóstol San Pablo a los
 
-GÁLATAS
+GÃLATAS
 
 Salutación
 
-GÁLATAS 1
+GÃLATAS 1
 
 1 Pablo, apóstol (no de hombres ni por hombre, sino por Jesucristo y por Dios el Padre que lo resucitó de los muertos), 2 y todos los hermanos que están conmigo, a las iglesias de Galacia: 3 Gracia y paz sean a vosotros, de Dios el Padre y de nuestro Señor Jesucristo, 4 el cual se dio a sí mismo por nuestros pecados para librarnos del presente siglo malo, conforme a la voluntad de nuestro Dios y Padre, 5 a quien sea la gloria por los siglos de los siglos. Amén. 
 
@@ -4993,11 +4991,11 @@ Bendición final
 
 La Epístola del Apóstol San Pablo a los
 
-EFESIOS 
+LEFESIOS 
 
 Salutación
 
-EFESIOS 1
+LEFESIOS 1
 
 1 Pablo, apóstol de Jesucristo por la voluntad de Dios, a los santos y fieles en Cristo Jesús que están en Efeso: 2 Gracia y paz a vosotros, de Dios nuestro Padre y del Señor Jesucristo.
 
@@ -5101,11 +5099,11 @@ Salutaciones finales
 
 La Epístola del Apóstol San Pablo a los
 
-FILIPENSES 
+LFILIPENSES 
 
 Salutación
 
-FILIPENSES 1
+LFILIPENSES 1
 
 1 Pablo y Timoteo, siervos de Jesucristo, a todos los santos en Cristo Jesús que están en Filipos, con los obispos y diáconos: 2 Gracia y paz a vosotros, de Dios nuestro Padre y del Señor Jesucristo. 
 
@@ -5183,11 +5181,11 @@ Salutaciones finales
 
 La Epístola del Apóstol San Pablo a los
 
-COLOSENSES 
+LCOLOSENSES 
 
 Salutación
 
-COLOSENSES 1
+LCOLOSENSES 1
 
 1 Pablo, apóstol de Jesucristo por la voluntad de Dios, y el hermano Timoteo, 2 a los santos y fieles hermanos en Cristo que están en Colosas: Gracia y paz sean a vosotros, de Dios nuestro Padre y del Señor Jesucristo. 
 
@@ -5544,11 +5542,11 @@ Saludos y bendición final
 
 La Epístola del Apóstol San Pablo a
 
-TITO 
+LTITO 
 
 Salutación
 
-TITO 1
+LTITO 1
 
 1 Pablo, siervo de Dios y apóstol de Jesucristo, conforme a la fe de los escogidos de Dios y el conocimiento de la verdad que es según la piedad, 2 en la esperanza de la vida eterna, la cual Dios, que no miente, prometió desde antes del principio de los siglos, 3 y a su debido tiempo manifestó su palabra por medio de la predicación que me fue encomendada por mandato de Dios nuestro Salvador, 4 a Tito, verdadero hijo en la común fe: Gracia, misericordia y paz, de Dios Padre y del Señor Jesucristo nuestro Salvador. 
 
@@ -5588,11 +5586,11 @@ La gracia sea con todos vosotros. Amén.
 
 La Epístola del Apóstol San Pablo a
 
-FILEMÓN 
+FILEMÃ“N 
 
 Salutación
 
-FILEMÓN 1
+FILEMÃ“N 1
 
 1 Pablo, prisionero de Jesucristo, y el hermano Timoteo, al amado Filemón, colaborador nuestro, 2 y a la amada hermana Apia, y a Arquipo nuestro compañero de milicia, y a la iglesia que está en tu casa: 3 Gracia y paz a vosotros, de Dios nuestro Padre y del Señor Jesucristo. 
 
@@ -5618,11 +5616,11 @@ Salutaciones y bendición final
 
 La Epístola a los
 
-HEBREOS 
+LHEBREOS 
 
 Dios ha hablado por su Hijo
 
-HEBREOS 1
+LHEBREOS 1
 
 1 Dios, habiendo hablado muchas veces y de muchas maneras en otro tiempo a los padres por los profetas, 2 en estos postreros días nos ha hablado por el Hijo, a quien constituyó heredero de todo, y por quien asimismo hizo el universo; 3 el cual, siendo el resplandor de su gloria, y la imagen misma de su sustancia, y quien sustenta todas las cosas con la palabra de su poder, habiendo efectuado la purificación de nuestros pecados por medio de sí mismo, se sentó a la diestra de la Majestad en las alturas, 4 hecho tanto superior a los ángeles, cuanto heredó más excelente nombre que ellos. 
 
@@ -5995,11 +5993,11 @@ Bendición y salutaciones finales
 
 La Epístola Universal de
 
-SANTIAGO 
+LSANTIAGO 
 
 Salutación
 
-SANTIAGO 1
+LSANTIAGO 1
 
 1 Santiago, siervo de Dios y del Señor Jesucristo, a las doce tribus que están en la dispersión: Salud. 
 
@@ -6393,7 +6391,7 @@ SAN JUDAS APÓSTOL
 
 Salutación
 
-JUDAS 1
+LJUDAS 1
 
 1 Judas, siervo de Jesucristo, y hermano de Jacobo, a los llamados, santificados en Dios Padre, y guardados en Jesucristo: 2 Misericordia y paz y amor os sean multiplicados. 
 

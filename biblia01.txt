@@ -5,11 +5,11 @@ Parte # 1 (INCLUYE LA LEY), los 10 primeros libros del AT: Gn, Ex, Lv, Nm, Dt, J
 
 LIBRO PRIMERO DE MOISÉS
 
-GÉNESIS
+GENESIS
 
 La creación
 
-Génesis 1
+Genesis 1
 
 Génesis 1:1
           En el principio creó Dios los cielos y la tierra.
@@ -1782,13 +1782,13 @@ Muerte de José
 
 
 
-LIBRO SEGUNDO DE MOISÉS
+LIBRO SEGUNDO DE MOISES
 
-ÉXODO
+EXODO
 
 Aflicción de los israelitas en Egipto
 
-ÉXODO 1
+EXODO 1
 
 1 Estos son los nombres de los hijos de Israel que entraron en Egipto con Jacob; cada uno entró con su familia: 2 Rubén, Simeón, Leví, Judá, 3 Isacar, Zabulón, Benjamín, 4 Dan, Neftalí, Gad y Aser. 5 Todas las personas que le nacieron a Jacob fueron setenta. Y José estaba en Egipto. 6 Y murió José, y todos sus hermanos, y toda aquella generación. 7 Y los hijos de Israel fructificaron y se multiplicaron, y fueron aumentados y fortalecidos en extremo, y se llenó de ellos la tierra. 
 
@@ -2600,7 +2600,7 @@ La obra del tabernáculo terminada
 
 Moisés erige el tabernáculo
 
-ÉXODO 40
+ÉXODO 40 . . .
 
 1 Luego Jehová habló a Moisés, diciendo: 2 En el primer día del mes primero harás levantar el tabernáculo, el tabernáculo de reunión; 3 y pondrás en él el arca del testimonio, y la cubrirás con el velo. 4 Meterás la mesa y la pondrás en orden; meterás también el candelero y encenderás sus lámparas, 5 y pondrás el altar de oro para el incienso delante del arca del testimonio, y pondrás la cortina delante a la entrada del tabernáculo. 6 Después pondrás el altar del holocausto delante de la entrada del tabernáculo, del tabernáculo de reunión. 7 Luego pondrás la fuente entre el tabernáculo de reunión y el altar, y pondrás agua en ella. 8 Finalmente pondrás el atrio alrededor, y la cortina a la entrada del atrio. 9 Y tomarás el aceite de la unción y ungirás el tabernáculo, y todo lo que está en él; y lo santificarás con todos sus utensilios, y será santo. 10 Ungirás también el altar del holocausto y todos sus utensilios; y santificarás el altar, y será un altar santísimo. 11 Asimismo ungirás la fuente y su base, y la santificarás. 12 Y llevarás a Aarón y a sus hijos a la puerta del tabernáculo de reunión, y los lavarás con agua. 13 Y harás vestir a Aarón las vestiduras sagradas, y lo ungirás, y lo consagrarás, para que sea mi sacerdote. 14 Después harás que se acerquen sus hijos, y les vestirás las túnicas; 15 y los ungirás, como ungiste a su padre, y serán mis sacerdotes, y su unción les servirá por sacerdocio perpetuo, por sus generaciones. 16 Y Moisés hizo conforme a todo lo que Jehová le mandó; así lo hizo. 17 Así, en el día primero del primer mes, en el segundo año, el tabernáculo fue erigido. 18 Moisés hizo levantar el tabernáculo, y asentó sus basas, y colocó sus tablas, y puso sus barras, e hizo alzar sus columnas. 19 Levantó la tienda sobre el tabernáculo, y puso la sobrecubierta encima del mismo, como Jehová había mandado a Moisés. 20 Y tomó el testimonio y lo puso dentro del arca, y colocó las varas en el arca, y encima el propiciatorio sobre el arca. 21 Luego metió el arca en el tabernáculo, y puso el velo extendido, y ocultó el arca del testimonio, como Jehová había mandado a Moisés. 22 Puso la mesa en el tabernáculo de reunión, al lado norte de la cortina, fuera del velo, 23 y sobre ella puso por orden los panes delante de Jehová, como Jehová había mandado a Moisés. 24 Puso el candelero en el tabernáculo de reunión, enfrente de la mesa, al lado sur de la cortina, 25 y encendió las lámparas delante de Jehová, como Jehová había mandado a Moisés. 26 Puso también el altar de oro en el tabernáculo de reunión, delante del velo, 27 y quemó sobre él incienso aromático, como Jehová había mandado a Moisés. 28 Puso asimismo la cortina a la entrada del tabernáculo. 29 Y colocó el altar del holocausto a la entrada del tabernáculo, del tabernáculo de reunión, y sacrificó sobre él holocausto y ofrenda, como Jehová había mandado a Moisés. 30 Y puso la fuente entre el tabernáculo de reunión y el altar, y puso en ella agua para lavar. 31 Y Moisés y Aarón y sus hijos lavaban en ella sus manos y sus pies. 32 Cuando entraban en el tabernáculo de reunión, y cuando se acercaban al altar, se lavaban, como Jehová había mandado a Moisés. 33 Finalmente erigió el atrio alrededor del tabernáculo y del altar, y puso la cortina a la entrada del atrio. Así acabó Moisés la obra. 
 
@@ -2614,13 +2614,13 @@ La nube sobre el tabernáculo
 
 
 
-LIBRO TERCERO DE MOISÉS
+LIBRO TERCERO DE MOISÉS . .  
 
-LEVÍTICO
+LEVITICO
 
 Los holocaustos
 
-LEVÍTICO 1
+LEVITICO 1
 
 1 Llamó Jehová a Moisés, y habló con él desde el tabernáculo de reunión, diciendo: 2 Habla a los hijos de Israel y diles: Cuando alguno de entre vosotros ofrece ofrenda a Jehová, de ganado vacuno u ovejuno haréis vuestra ofrenda. 
 
@@ -3096,11 +3096,11 @@ LEVÍTICO 27
 
 Libro Cuarto de Moisés
 
-NÚMEROS
+NÃšMEROS
 
 Censo de Israel en Sinaí
 
-NÚMEROS 1
+NÃšMEROS 1
 
 1 Habló Jehová a Moisés en el desierto de Sinaí, en el tabernáculo de reunión, en el día primero del mes segundo, en el segundo año de su salida de la tierra de Egipto, diciendo: 2 Tomad el censo de toda la congregación de los hijos de Israel por sus familias, por las casas de sus padres, con la cuenta de los nombres, todos los varones por sus cabezas. 3 De veinte años arriba, todos los que pueden salir a la guerra en Israel, los contaréis tú y Aarón por sus ejércitos. 4 Y estará con vosotros un varón de cada tribu, cada uno jefe de la casa de sus padres. 5 Estos son los nombres de los varones que estarán con vosotros: De la tribu de Rubén, Elisur hijo de Sedeur. 6 De Simeón, Selumiel hijo de Zurisadai. 7 De Judá, Naasón hijo de Aminadab. 8 De Isacar, Natanael hijo de Zuar. 9 De Zabulón, Eliab hijo de Helón. 10 De los hijos de José: de Efraín, Elisama hijo de Amiud; de Manasés, Gamaliel hijo de Pedasur. 11 De Benjamín, Abidán hijo de Gedeoni. 12 De Dan, Ahiezer hijo de Amisadai. 13 De Aser, Pagiel hijo de Ocrán. 14 De Gad, Eliasaf hijo de Deuel. 15 De Neftalí, Ahira hijo de Enán. 16 Estos eran los nombrados de entre la congregación, príncipes de las tribus de sus padres, capitanes de los millares de Israel. 
 
@@ -4879,11 +4879,11 @@ DEUTERONOMIO 34
 ------------------------------------------------------------------------
 
 
-JOSUÉ 
+JOSUE
 
 Preparativos para la conquista
 
-JOSUÉ 1
+JOSUE 1
 
 1 Aconteció después de la muerte de Moisés siervo de Jehová, que Jehová habló a Josué hijo de Nun, servidor de Moisés, diciendo: 2 Mi siervo Moisés ha muerto; ahora, pues, levántate y pasa este Jordán, tú y todo este pueblo, a la tierra que yo les doy a los hijos de Israel. 3 Yo os he entregado, como lo había dicho a Moisés, todo lugar que pisare la planta de vuestro pie. 4 Desde el desierto y el Líbano hasta el gran río Eufrates, toda la tierra de los heteos hasta el gran mar donde se pone el sol, será vuestro territorio. 5 Nadie te podrá hacer frente en todos los días de tu vida; como estuve con Moisés, estaré contigo; no te dejaré, ni te desampararé. 6 Esfuérzate y sé valiente; porque tú repartirás a este pueblo por heredad la tierra de la cual juré a sus padres que la daría a ellos. 7 Solamente esfuérzate y sé muy valiente, para cuidar de hacer conforme a toda la ley que mi siervo Moisés te mandó; no te apartes de ella ni a diestra ni a siniestra, para que seas prosperado en todas las cosas que emprendas. 8 Nunca se apartará de tu boca este libro de la ley, sino que de día y de noche meditarás en él, para que guardes y hagas conforme a todo lo que en él está escrito; porque entonces harás prosperar tu camino, y todo te saldrá bien. 9 Mira que te mando que te esfuerces y seas valiente; no temas ni desmayes, porque Jehová tu Dios estará contigo en dondequiera que vayas. 
 
@@ -4893,7 +4893,7 @@ JOSUÉ 1
 
 Josué envía espías a Jericó
 
-JOSUÉ 2
+JOSUE 2
 
 1 Josué hijo de Nun envió desde Sitim dos espías secretamente, diciéndoles: Andad, reconoced la tierra, y a Jericó. Y ellos fueron, y entraron en casa de una ramera que se llamaba Rahab, y posaron allí. 2 Y fue dado aviso al rey de Jericó, diciendo: He aquí que hombres de los hijos de Israel han venido aquí esta noche para espiar la tierra. 3 Entonces el rey de Jericó envió a decir a Rahab: Saca a los hombres que han venido a ti, y han entrado a tu casa; porque han venido para espiar toda la tierra. 4 Pero la mujer había tomado a los dos hombres y los había escondido; y dijo: Es verdad que unos hombres vinieron a mí, pero no supe de dónde eran. 5 Y cuando se iba a cerrar la puerta, siendo ya oscuro, esos hombres se salieron, y no sé a dónde han ido; seguidlos aprisa, y los alcanzaréis. 6 Mas ella los había hecho subir al terrado, y los había escondido entre los manojos de lino que tenía puestos en el terrado. 7 Y los hombres fueron tras ellos por el camino del Jordán, hasta los vados; y la puerta fue cerrada después que salieron los perseguidores. 
 
@@ -5298,7 +5298,7 @@ Muerte de Eleazar
 
 JUECES 
 
-Judá y Simeón capturan a Adoni-bezec
+JudÃ¡ y SimeÃ³n capturan a Adoni-bezec
 
 JUECES 1
 

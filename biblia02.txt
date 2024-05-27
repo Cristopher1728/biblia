@@ -553,7 +553,7 @@ Muerte de Ocozías
 
 13 Volvió a enviar al tercer capitán de cincuenta con sus cincuenta; y subiendo aquel tercer capitán de cincuenta, se puso de rodillas delante de Elías y le rogó, diciendo: Varón de Dios, te ruego que sea de valor delante de tus ojos mi vida, y la vida de estos tus cincuenta siervos. 14 He aquí ha descendido fuego del cielo, y ha consumido a los dos primeros capitanes de cincuenta con sus cincuenta; sea estimada ahora mi vida delante de tus ojos. 15 Entonces el ángel de Jehová dijo a Elías: Desciende con él; no tengas miedo de él. Y él se levantó, y descendió con él al rey. 16 Y le dijo: Así ha dicho Jehová: Por cuanto enviaste mensajeros a consultar a Baal-zebub dios de Ecrón, ¿no hay Dios en Israel para consultar en su palabra? No te levantarás, por tanto, del lecho en que estás, sino que de cierto morirás. 
 
-17 Y murió conforme a la palabra de Jehová, que había hablado Elías. Reinó en su lugar Joram, en el segundo año de Joram hijo de Josafat, rey de Judá; porque Ocozías no tenía hijo. 18 Los demás hechos de Ocozías, ¿no están escritos en el libro de las crónicas de los reyes de Israel? 
+17 Y murió conforme a la palabra de Jehová, que había hablado Elías. Reinó en su lugar Joram, en el segundo año de Joram hijo de Josafat, rey de Judá; porque Ocozías no tenía hijo. 18 Los demás hechos de Ocozías, ¿no están escritos en el libro de las cronicas de los reyes de Israel? 
 
 Eliseo sucede a Elías
 
@@ -1081,13 +1081,13 @@ Joaquín es libertado y recibe honores en Babilonia
 
 Primer Libro de
 
-CRÓNICAS  
+CRÃ“NICAS  
 
 Descendientes de Adán
 
 (Gn. 5.1-32)
 
-1 CRÓNICAS 1
+1 CRÃ“NICAS 1
 
 1 Adán, Set, Enós, 2 Cainán, Mahalaleel, Jared, 3 Enoc, Matusalén, Lamec, 4 Noé, Sem, Cam y Jafet. 
 
@@ -1649,13 +1649,13 @@ Muerte de David
 
 
 
-Segundo libro de Crónicas 
+Segundo libro de CrÃ³nicas 
 
 
 
 Salomón pide sabiduría
 
-2 Crónicas 1
+2 CRÃ“NICAS 1
 (1 R. 3.3-15)
 
 1 Salomón hijo de David fue afirmado en su reino, y Jehová su Dios estaba con él, y lo engrandeció sobremanera. 
@@ -3301,11 +3301,11 @@ ESDRAS 10
 ------------------------------------------------------------------------
 
 
-NEHEMÍAS 
+NEHEMÃAS 
 
 Oración de Nehemías sobre Jerusalén
 
-NEHEMÍAS 1
+NEHEMÃAS 1
 
 1 Palabras de Nehemías hijo de Hacalías. Aconteció en el mes de Quisleu, en el año veinte, estando yo en Susa, capital del reino, 2 que vino Hanani, uno de mis hermanos, con algunos varones de Judá, y les pregunté por los judíos que habían escapado, que habían quedado de la cautividad, y por Jerusalén. 3 Y me dijeron: El remanente, los que quedaron de la cautividad, allí en la provincia, están en gran mal y afrenta, y el muro de Jerusalén derribado, y sus puertas quemadas a fuego. 
 
@@ -3626,13 +3626,7 @@ Job maldice el día en que nació
 
 JOB 3
 
-1 Después de esto abrió Job su boca, y maldijo su día. 2 Y exclamó Job, y dijo: 
-
-
-
-
-
-3 Perezca el día en que yo nací, 
+1 Después de esto abrió Job su boca, y maldijo su día. 2 Y exclamó Job, y dijo: 3 Perezca el día en que yo nací, 
 Y la noche en que se dijo: Varón es concebido. 
 4 Sea aquel día sombrío, 
 Y no cuide de él Dios desde arriba, 
@@ -16484,13 +16478,13 @@ Y alábenla en las puertas sus hechos.
 ------------------------------------------------------------------------
 
 
-ECLESTIASTÉS 
+ECLESTIASTÃ‰S 
 
 O EL PREDICADOR
 
 Todo es vanidad
 
-ECLESTIASTÉS 1
+ECLESTIASTÃ‰S 1
 
 1 Palabras del Predicador, hijo de David, rey en Jerusalén. 
 
