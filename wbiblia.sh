@@ -20,19 +20,19 @@ while true; do
         3)
             dialog --title "ℹ️ Ayuda" --msgbox "\
 Escribe así:
-  Génesis 1
-  Éxodo 3
-  Salmo 23
-  Mateo 5
+  GÉNESIS 1
+  ÉXODO 3
+  SALMO 23
+  MTEO 5
 
 Al salir de la lectura, vuelve aquí.
 Presiona ESC o elige Salir para cerrar." 15 50
             continue
             ;;
-        2) BUSCAR="Génesis 1" ;;
+        2) BUSCAR="GÉNESIS 1" ;;
         1|*)
             BUSCAR=$(dialog --title "🔍 Buscar" \
-                --inputbox "Escribe: Libro + Capítulo\nEjemplos: Génesis 1, Mateo 5" \
+                --inputbox "Escribe: Libro + Capítulo\nEjemplos: GÉNESIS 1, MATEO 5" \
                 12 55 \
                 3>&1 1>&2 2>&3)
             [ $? -ne 0 ] && continue
