@@ -13,13 +13,14 @@ abrir_con_vim() {
 
 while true; do
     OPCION=$(dialog --stdout --title "📖 BIBLIOTECA SAGRADA" \
-        --backtitle "BIBLIA REINA VALERA + DEUTEROCANÓNICOS + NAG HAMMADI" \
-        --menu "SELECCIONA UNA SECCIÓN:" 17 68 8 \
-        "0" "📄 BIBLIA COMPLETA" \
-        "1" "📜 ANTIGUO TESTAMENTO" \
-        "2" "✝️  NUEVO TESTAMENTO" \
-        "3" "📖 LIBROS DEUTEROCANÓNICOS" \
-        "4" "📚 NAG HAMMADI — 13 CÓDICES" \
+        --backtitle "BIBLIA REINA VALERA + LIBROS EXTRACANÓNICOS + DEUTEROCANÓNICOS + NAG HAMMADI" \
+        --menu "SELECCIONA UNA SECCIÓN:" 19 68 9 \
+        "0" "📜 BIBLIA COMPLETA" \
+        "1" "📖 ANTIGUO TESTAMENTO" \
+        "2" "✝️ NUEVO TESTAMENTO" \
+        "3" "📚 LIBROS EXTRACANÓNICOS — 13 LIBROS" \
+        "4" "📙 LIBROS DEUTEROCANÓNICOS" \
+        "5" "📜 NAG HAMMADI — 13 CÓDICES" \
         "S" "❌ SALIR")
 
     [ -z "$OPCION" ] && exit 0
@@ -35,15 +36,16 @@ while true; do
 
     if [ "$OPCION" = "S" ]; then
         clear
-        echo -e "\nQUE LA GRACIA DEL PADRE ESTÉ CON VOSOTROS. AMÉN.\n"
+        echo -e "\n🙏 QUE LA GRACIA DEL SEÑOR ESTÉ CON VOSOTROS. AMÉN.\n"
         exit 0
     fi
 
     case "$OPCION" in
         1) CARPETA="$RUTA_BASE/ANTIGUO_TESTAMENTO" ;;
         2) CARPETA="$RUTA_BASE/NUEVO_TESTAMENTO" ;;
-        3) CARPETA="$RUTA_BASE/DEUTERO_CANONICOS" ;;
-        4) CARPETA="$RUTA_BASE/NAG_HAMMADI" ;;
+        3) CARPETA="$RUTA_BASE/EXTRACANONICOS" ;;
+        4) CARPETA="$RUTA_BASE/DEUTERO_CANONICOS" ;;
+        5) CARPETA="$RUTA_BASE/NAG_HAMMADI" ;;
         *) continue ;;
     esac
 
@@ -54,20 +56,19 @@ while true; do
 
     while true; do
         LISTA=()
-        # Lee TODOS los archivos y los ordena solos
         for ARCHIVO in $(ls -1 "$CARPETA"/*.txt | sort); do
             [ -f "$ARCHIVO" ] || continue
             SOLO_NOMBRE=$(basename "$ARCHIVO")
-            LISTA+=("$SOLO_NOMBRE" "$ARCHIVO")
+            LISTA+=("$SOLO_NOMBRE" "$SOLO_NOMBRE")
         done
 
         if [ ${#LISTA[@]} -eq 0 ]; then
-            dialog --msgbox "ℹ️ NO HAY LIBROS EN ESTA CARPETA" 8 50
+            dialog --msgbox "📂 NO HAY LIBROS EN ESTA CARPETA" 8 50
             break
         fi
 
         SELECCIONADO=$(dialog --stdout --title "📖 LIBROS DISPONIBLES" \
-            --menu "SELECCIONA PARA LEER  |  CANCELAR = VOLVER ATRÁS" 22 75 14 \
+            --menu "SELECCIONA PARA LEER | CANCELAR = VOLVER ATRÁS" 22 75 14 \
             "${LISTA[@]}")
 
         [ -z "$SELECCIONADO" ] && break
